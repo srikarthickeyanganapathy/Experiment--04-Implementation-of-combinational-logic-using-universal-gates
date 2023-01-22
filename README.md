@@ -26,7 +26,25 @@ NOR gate is actually a combination of two logic gates: OR gate followed by NOT g
 
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
-## Procedure
+## Procedure:
+### STEP 1:
+Create a project with required entities.
+
+### STEP 2:
+Create a module along with respective file name.
+
+### STEP 3:
+Run the respective programs for the given boolean equations.
+
+### STEP 4:
+Run the module and get the respective RTL outputs.
+
+### STEP 5:
+Create university program(VWF) for getting timing diagram.
+
+### STEP 6:
+Give the respective inputs for timing diagram and obtain the results.
+
 ## Program1:
 ![Program1](./Screenshot%20(110).png)
 ## Program2:
